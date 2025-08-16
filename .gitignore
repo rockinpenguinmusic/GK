@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/GK.Talks/bin/Debug/net9.0
+/GK.Talks/obj
+/GK.Talks.Tests/bin
+/GK.Talks.Tests/obj
+/obj
+/.gitattributes
+/GK.sln.DotSettings.user
+/.gitattributes
+/.gitattributes
